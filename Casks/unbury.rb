@@ -2,8 +2,7 @@ cask "unbury" do
   version "0.1.1"
   sha256 "e9a9c4fc040fb17fe94f952480022dff1e87598e4a36dbfe23a6f83142c52bea"
 
-  url "https://github.com/migsilva89/unbury/releases/download/v#{version}/Unbury-#{version}.dmg",
-      verified: "github.com/migsilva89/unbury/"
+  url "https://github.com/migsilva89/unbury/releases/download/v#{version}/Unbury-#{version}.dmg"
   name "Unbury"
   desc "Searches saved bookmarks by meaning rather than by title"
   homepage "https://unbury.migsilva.dev"
